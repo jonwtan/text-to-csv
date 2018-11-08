@@ -29,19 +29,3 @@ for a in infile:
 infile.close()
 outfile.close()
 
-'''
-    if len(b) == 2:									# example: '3028 Laverton'
-        outfile.write("%s, " % b[0])
-        outfile.write("%s " % b[1])
-    
-    elif len(b) == 3:								# example: '3040 Essendon West'
-        outfile.write("%s , " % b[0])
-        outfile.write("%s " % b[1])
-        outfile.write("%s " % b[2])
-		
-    elif len(b) == 4:								# example: '3129 Mont Albert North'
-        outfile.write("%s , " % b[0])
-        outfile.write("%s " % b[1])
-        outfile.write("%s " % b[2])
-        outfile.write("%s " % b[3])
-'''
