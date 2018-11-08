@@ -14,21 +14,35 @@ In the folder, are 3 files;
 Running the script converts the textfile....
 
 3067 Abbotsford 
+
 3040 Aberfeldie 
+
 3825 Aberfeldy 
+
 3714 Acheron 
+
 3352 Addington 
+
 3962 Agnes
+
 3231 Aireys Inlet
+
 ....
 
 into this .csv file;
 
 3067, Abbotsford 
+
 3040, Aberfeldie 
+
 3825, Aberfeldy 
+
 3714, Acheron 
+
 3352, Addington 
+
 3962, Agnes 
+
 3231, Aireys Inlet 
+
 ....
